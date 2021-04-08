@@ -17,6 +17,6 @@ Thoughts: The code challenge itself wasn't all that bad, but I am looking forwar
 
 DAY 2: April 8, 2021
 
-Today's Progress: Completed 3 entry level Python challenges: finding the shortest word in a string, finding the sum of minimums in three lists, and splitting strings and grouping them in a list and a certain index. I continued to dive into AWS Amplify and the BeatifulSoup framework for the Hack Week project as well.
+Today's Progress: Completed 3 entry level Python challenges: finding the shortest word in a string, finding the sum of minimums in three lists, and splitting strings and grouping them in a list and a certain index. I continued to dive into AWS Amplify and the BeautifulSoup framework for the Hack Week project as well.
 
 Thoughts: I had a good time doing the Python challenges today and continuing to learn the flexible language; day 2 couldn't have gone better, considering I started learning Python on the first day of the challenge! Hope to continue to improve over the coming days & weeks. The BeautifulSoup framework was giving me a good bit of trouble getting it imported, but now it's feeling very powerful and I'm glad I chose to learn it for this week's mini project.
