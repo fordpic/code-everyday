@@ -32,3 +32,9 @@ Day 4: April 10, 2021
 Today's Progress: Continued to work towards deploying the web scraper for my Hack Week project on AWS Amplify.
 
 Thoughts: My entire time spent coding today was focused towards getting the correct response I wanted into AWS Amplify from the web scraper I built. I thought the serverless backend was going to be the hard part, howeber this lambda function in Amplify is so finicky - it is by far the hardest part. Will keep chipping away at it tomorrow!
+
+Day 5: April 11, 2021
+
+Today's Progress: Finally got the web scraper deployed via AWS Amplify & straightened out the project deliverables with my partner (presentation, readme, etc).
+
+Thoughts: Happy day, my partner & I finally got the web scraper deployed to AWS Amplify. It's not exactly what we wanted, as we ended up needing to scale back the scraper just a bit to get the response we wanted from Amplify. We believe that many of our woes stem from the fact that Amplify is way more powerful than our local machines, and the lambda function is executing quicker than the get request is actually fetching the data - we've built in a timer for now, but definitely something he & I must address moving forward!
