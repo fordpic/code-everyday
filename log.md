@@ -41,7 +41,7 @@ Thoughts: Happy day, my partner & I finally got the web scraper deployed to AWS 
 
 Day 6: April 12, 2021
 
-Today's Progress: Presented my Hack Week project, completed another long DJango exercise, continuing to work through Python modules.
+Today's Progress: Presented my Hack Week project, completed another long Django exercise, continuing to work through Python modules.
 
 Thoughts: The web scraper presentation went well today, I believe we'll continue to build upon this idea & make the scraper dynamic & able to scrape multiple sites. I'm not sure I enjoy Django more than say Express, but I can see & appreciate all the work it does under the hood, which is not insignificant. Moving forward I am continuing to learn Python and push through online materials & courses - I will master it soon!
 
