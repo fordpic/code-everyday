@@ -45,4 +45,8 @@ Today's Progress: Presented my Hack Week project, completed another long Django 
 
 Thoughts: The web scraper presentation went well today, I believe we'll continue to build upon this idea & make the scraper dynamic & able to scrape multiple sites. I'm not sure I enjoy Django more than say Express, but I can see & appreciate all the work it does under the hood, which is not insignificant. Moving forward I am continuing to learn Python and push through online materials & courses - I will master it soon!
 
+Day 7: April 13, 2021
 
+Today's Progress: Spent the entire day building Django REST APIs.
+
+Thoughts: Though not necessarily exciting, today was definitely well spent learning the ends & outs of the Django Python framework & leveraging it to make a REST API; these are what make the framework the most interesting/powerful in my opinion, so I'm glad I'm spending some real time on it. I'd be lying if I said I preferred this to Express, but I think it will just take a little love from my end to smooth the experience out. 
