@@ -26,3 +26,9 @@ DAY 3: April 9, 2021
 Today's Progress: Spent time learning the Django framework & continued to work towards deploying the Hack Week project. Built a web scraper for a static web page using BeautifulSoup.
 
 Thoughts: I found Django to be frustrating but great once you could get the thing running how it's supposed to. Errors & rigid file structures were killers. In regards to the project, I finished building a web scraper for a static page using BS4 which I enjoyed immensely. I created others in the same format for different pages, and worked towards getting them deployed to AWS Amplify with my partner. Who knew getting Python dependencies pushed to the cloud was so complicated... 
+
+Day 4: April 10, 2021
+
+Today's Progress: Continued to work towards deploying the web scraper for my Hack Week project on AWS Amplify.
+
+Thoughts: My entire time spent coding today was focused towards getting the correct response I wanted into AWS Amplify from the web scraper I built. I thought the serverless backend was going to be the hard part, howeber this lambda function in Amplify is so finicky - it is by far the hardest part. Will keep chipping away at it tomorrow!
