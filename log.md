@@ -50,3 +50,9 @@ Day 7: April 13, 2021
 Today's Progress: Spent the entire day building Django REST APIs.
 
 Thoughts: Though not necessarily exciting, today was definitely well spent learning the ends & outs of the Django Python framework & leveraging it to make a REST API; these are what make the framework the most interesting/powerful in my opinion, so I'm glad I'm spending some real time on it. I'd be lying if I said I preferred this to Express, but I think it will just take a little love from my end to smooth the experience out. 
+
+Day 8: April 14, 2021
+
+Today's Progress: Continued my deep dive into the Django framework & Django REST APIs.
+
+Thoughts: I know Django is going to be really helpful in the long run, but boy oh boy is it a beast to set up and get functioning correctly. It's so sleek & powerful but so finicky at the same time - Django is doing so much under the hood that I'm always worried I'm missing something somewhere, since I'm so used to doing everything to set up Express. I will continue to give it my all to learn the ins & outs of the framework!
