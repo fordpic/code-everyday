@@ -59,6 +59,12 @@ Thoughts: I know Django is going to be really helpful in the long run, but boy o
 
 Day 9: April 15, 2021
 
+Today's Progress: Learned how to use & implement user authentication in Django!
+
+Thoughts: What a day! It was an absolute beast learning how to do user auth in Django but I think it the long run it is going to be so worth it. After spending hours on hours trying to get my bcrypt auth to work in Express, Django feels like a breath of fresh air in that regard. Deciding on what I'm going to do for my final capstone project tomorrow!
+
+Day 10: April 16, 2021
+
 Today's Progress: Began working with new frameworks for web scraping, including Selenium & Scrapy.
 
-Thoughts: Today I began working through using Selenium (in conjunction with the previous BeautifulSoup scraper) & Scrapy (which is more of a BeautifulSoup substitute). I'm trying to get a full overview of web scraping and all of the technologies involved, so I can choose which one I'd like to use for my final capstone project - I can't wait!
+Thoughts: Today I began working through using Selenium (in conjunction with the previous BeautifulSoup scraper) & Scrapy (which is more of a BeautifulSoup substitute). I'm trying to get a full overview of web scraping and all of the technologies involved, so I can choose which one I'd like to use for my final capstone project (going with a big ole dynamic web scraping app) - I can't wait!
