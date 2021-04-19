@@ -56,3 +56,9 @@ Day 8: April 14, 2021
 Today's Progress: Continued my deep dive into the Django framework & Django REST APIs.
 
 Thoughts: I know Django is going to be really helpful in the long run, but boy oh boy is it a beast to set up and get functioning correctly. It's so sleek & powerful but so finicky at the same time - Django is doing so much under the hood that I'm always worried I'm missing something somewhere, since I'm so used to doing everything to set up Express. I will continue to give it my all to learn the ins & outs of the framework!
+
+Day 9: April 15, 2021
+
+Today's Progress: Began working with new frameworks for web scraping, including Selenium & Scrapy.
+
+Thoughts: Today I began working through using Selenium (in conjunction with the previous BeautifulSoup scraper) & Scrapy (which is more of a BeautifulSoup substitute). I'm trying to get a full overview of web scraping and all of the technologies involved, so I can choose which one I'd like to use for my final capstone project - I can't wait!
