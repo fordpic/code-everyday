@@ -74,3 +74,9 @@ Day 11: April 17, 2021
 Today's Progress: Worked through multiple code challenges on CodeWars in both JavaScript & Python.
 
 Thoughts: I took a small break from web scraping & Django today to focus a bit on brushing up my JS & Python skills. To be perfectly transparent, I am not all that good at code challenges YET, but I am determined to become a master in a few languages at them, They're so helpful & help me to think int he right mindset of a programmer - I will be doing a lot more of these over the coming days & weeks!
+
+Day 12: April 18, 2021
+
+Today's Progress: Continued honing Python skills with a few code challenges & an online teaching series.
+
+Thoughts: Today I figured that I would really dive into Python as a language to get better not only at it but to set myself up for success with this web scraping capstone project. I spent a good bit of time today on CodeWars again (love that site) but unfortunately couldn't do any challenges harder than 7kyu yet - I'll keep working at it! I also started the Python Mastery course from Treehouse, which I'm hoping can help smooth the edges a bit as well. Really loving Python though as my second programming language!
