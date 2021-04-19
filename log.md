@@ -68,3 +68,9 @@ Day 10: April 16, 2021
 Today's Progress: Began working with new frameworks for web scraping, including Selenium & Scrapy.
 
 Thoughts: Today I began working through using Selenium (in conjunction with the previous BeautifulSoup scraper) & Scrapy (which is more of a BeautifulSoup substitute). I'm trying to get a full overview of web scraping and all of the technologies involved, so I can choose which one I'd like to use for my final capstone project (going with a big ole dynamic web scraping app) - I can't wait!
+
+Day 11: April 17, 2021
+
+Today's Progress: Worked through multiple code challenges on CodeWars in both JavaScript & Python.
+
+Thoughts: I took a small break from web scraping & Django today to focus a bit on brushing up my JS & Python skills. To be perfectly transparent, I am not all that good at code challenges YET, but I am determined to become a master in a few languages at them, They're so helpful & help me to think int he right mindset of a programmer - I will be doing a lot more of these over the coming days & weeks!
