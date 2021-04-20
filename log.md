@@ -80,3 +80,9 @@ Day 12: April 18, 2021
 Today's Progress: Continued honing Python skills with a few code challenges & an online teaching series.
 
 Thoughts: Today I figured that I would really dive into Python as a language to get better not only at it but to set myself up for success with this web scraping capstone project. I spent a good bit of time today on CodeWars again (love that site) but unfortunately couldn't do any challenges harder than 7kyu yet - I'll keep working at it! I also started the Python Mastery course from Treehouse, which I'm hoping can help smooth the edges a bit as well. Really loving Python though as my second programming language!
+
+Day 13: April 19, 2021
+
+Today's Progress: Continued to spend more time diving into the online Python mastery course & Amplify work.
+
+Thoughts: Today was a tough one, as we continued to have issues with our lambda function and user authentication on AWS Amplify. It just doesn't seem to want to work - had to put it down for the day to focus on something else & revisit later. On the bright side, I've been tearing through the previously mentioned Python mastery course online through Treehouse, and I'm really starting to nail the language down. Will continue to work at the Amplify issues so that the capstone project is perfect!
