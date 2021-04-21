@@ -86,3 +86,9 @@ Day 13: April 19, 2021
 Today's Progress: Continued to spend more time diving into the online Python mastery course & Amplify work.
 
 Thoughts: Today was a tough one, as we continued to have issues with our lambda function and user authentication on AWS Amplify. It just doesn't seem to want to work - had to put it down for the day to focus on something else & revisit later. On the bright side, I've been tearing through the previously mentioned Python mastery course online through Treehouse, and I'm really starting to nail the language down. Will continue to work at the Amplify issues so that the capstone project is perfect!
+
+Day 14: April 20, 2021
+
+Today's Progress: Finished up the dynamic web scraper for a new site to go along with the static one; continued AWS studies.
+
+Thoughts: Today was all about the web scrapers for my capstone project. Though the pages were annoying to drill down into for the correct content, the dopamine rush of seeing allll the information returned in the terminal in the format that you intended is addicting. I believe that I will continue to play around and push my limits in web scraping even once this project is over, because the pure concept of it is so fascinating to me.
