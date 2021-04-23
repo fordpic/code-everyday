@@ -98,3 +98,9 @@ Day 15: April 21, 2021
 Today's Progress: Hooked React frontend up to dynamic web scraping backend being hosted on AWS Amplify.
 
 Thoughts: It felt good to step back into React and get the frontend hooked up after so many days spent dying over the AWS Lambda function. Overall the project is feeling really good, these next few days will be spent fine tuning the UI/UX experience; oh happy days..
+
+Day 16: April 22, 2021
+
+Today's Progress: Did a few Python coding challenges while continuing to iron out bugs in AWS Lambda.
+
+Thoughts: Started off hot today with a few Python coding challanges, but the day quickly took a turn for the worse once Lambda decided to rear its ugly head again. Luckily we were able to squash all of the issues with it, but most of the day (that was supposed to go towards UI/UX) was taken up by AWS; she's getting greedy!
