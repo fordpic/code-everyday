@@ -92,3 +92,9 @@ Day 14: April 20, 2021
 Today's Progress: Finished up the dynamic web scraper for a new site to go along with the static one; continued AWS studies.
 
 Thoughts: Today was all about the web scrapers for my capstone project. Though the pages were annoying to drill down into for the correct content, the dopamine rush of seeing allll the information returned in the terminal in the format that you intended is addicting. I believe that I will continue to play around and push my limits in web scraping even once this project is over, because the pure concept of it is so fascinating to me.
+
+Day 15: April 21, 2021
+
+Today's Progress: Hooked React frontend up to dynamic web scraping backend being hosted on AWS Amplify.
+
+Thoughts: It felt good to step back into React and get the frontend hooked up after so many days spent dying over the AWS Lambda function. Overall the project is feeling really good, these next few days will be spent fine tuning the UI/UX experience; oh happy days..
