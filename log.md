@@ -104,3 +104,9 @@ Day 16: April 22, 2021
 Today's Progress: Did a few Python coding challenges while continuing to iron out bugs in AWS Lambda.
 
 Thoughts: Started off hot today with a few Python coding challanges, but the day quickly took a turn for the worse once Lambda decided to rear its ugly head again. Luckily we were able to squash all of the issues with it, but most of the day (that was supposed to go towards UI/UX) was taken up by AWS; she's getting greedy!
+
+Day 17: April 23, 2021
+
+Today's Progress: Fine tuned the React frontend of the capstone project.
+
+Thoughts: Today was the day (finally!) that my partner & I got to really dig in on the design on the website & put a little razzle-dazzle in there. I do really enjoy working with React, I am most definitely going to continue to push my bounadries with the framework & expand my knowledge & use of it any way I can.
