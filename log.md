@@ -110,3 +110,9 @@ Day 17: April 23, 2021
 Today's Progress: Fine tuned the React frontend of the capstone project.
 
 Thoughts: Today was the day (finally!) that my partner & I got to really dig in on the design on the website & put a little razzle-dazzle in there. I do really enjoy working with React, I am most definitely going to continue to push my bounadries with the framework & expand my knowledge & use of it any way I can.
+
+Day 18: April 24, 2021
+
+Today's Progress: JavaScript coding challenges, studied for my Cloud Practitioner AWS Exam.
+
+Thoughts: Today I went down the rabbit hole of learning AWS front to back at a surface level for their Cloud Practitioner cert. Not only do I think working towards & achieving this certification will make me a better developer, but I believe that it will overall make me think differently about things, & approach problems from a different angle. I'm always looking for ways to improve my problem solving skills!
