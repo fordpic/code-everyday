@@ -116,3 +116,9 @@ Day 18: April 24, 2021
 Today's Progress: JavaScript coding challenges, studied for my Cloud Practitioner AWS Exam.
 
 Thoughts: Today I went down the rabbit hole of learning AWS front to back at a surface level for their Cloud Practitioner cert. Not only do I think working towards & achieving this certification will make me a better developer, but I believe that it will overall make me think differently about things, & approach problems from a different angle. I'm always looking for ways to improve my problem solving skills!
+
+Day 19: April 25, 2021
+
+Today's Progress: Studied more for the AWS Cloud Practioner Exam.
+
+Thoughts: Today I just spent a few hours studying for the Cloud Practitioner cert, as I will be taking that exam in a week's time. I feel a bit strange today, as tomorrow we present our final capstone projects & wrap up our coding bootcamp - and what a journey it was! More on that tomorrow :)
