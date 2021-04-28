@@ -128,3 +128,9 @@ Day 20: April 26, 2021
 Today's Progress: Presented capstone project, watched others present their projects, wrapped up the bootcamp.
 
 Thoughts: What a bittersweet day. We all knew the day was coming, I could see it barreling through the tunnel towards me these past few weeks - but that doesn't make it any easier. Wow, what to say.. this bootcamp has truly changed my life for the better, and I cannot wait to apply everything I learned in class towards bettering myself & the planet. It's nothing short of amazing to look back at where I was at the beginning of the bootcamp (Feb 1st) & look down to see where I am now. Coding is now a part of me, of my blood & mind, and I will continue to push & perfect my new craft. Thank you General Assembly for everything!
+
+Day 21: April 27, 2021
+
+Today's Progress: Studied more for AWS Cloud Practitioner exam, mapped out the future (with a few JavaScript coding challenges sprinkled in).
+
+Thoughts: First full day post-class! A weird feeling but a liberating one for sure, there's a ton of things I want to do immediately! I think a struggle for me is going to be buckling down & finishing one thing at a time, instead of trying to do them all at once. First will be passing the AWS exam, then I will begin making my personal site to show to potential employers afterwards! Onwards & upwards..
