@@ -134,3 +134,9 @@ Day 21: April 27, 2021
 Today's Progress: Studied more for AWS Cloud Practitioner exam, mapped out the future (with a few JavaScript coding challenges sprinkled in).
 
 Thoughts: First full day post-class! A weird feeling but a liberating one for sure, there's a ton of things I want to do immediately! I think a struggle for me is going to be buckling down & finishing one thing at a time, instead of trying to do them all at once. First will be passing the AWS exam, then I will begin making my personal site to show to potential employers afterwards! Onwards & upwards..
+
+Day 22: April 28, 2021
+
+Today's Progress: Continued studying for Cloud Practitioner exam, began building portfolio website.
+
+Thoughts: I believe I should be able to take the AWS exam at the top of next week, so hopefully this will be the final push here of studying for it so I can move on to other things. I went ahead and scaled out my portfolio website (sans CSS) & put all of my projects on there for now, will need some serious design overhauls this weekend as well. I have my work cut out for me!
