@@ -152,3 +152,10 @@ Day 24: April 30, 2021
 Today's Progress: Completed a few JavaScript coding challenges.
 
 Thoughts: I took it easy today, as I felt I really needed a break from everything. Spent some time outdoors, walked my dog, saw some family - still snuck in a few coding challenges though :)
+
+Day 25: May 1, 2021
+
+Today's Progress: Continued with building out the portfolio site, adding animations.
+
+Thoughts: I spent today looking into animations in React & how I could leverage them in my personal website. I've got a solid, working site up now, but I really want it to wow people! Sneak peek coming soon...
+
