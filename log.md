@@ -146,3 +146,9 @@ Day 23: April 29, 2021
 Today's Progress: Continued studying for the CP exam & building out portfolio site.
 
 Thoughts: Not much to say here for today, just continuing to push through the AWS training & working more on my portfolio site. Trying to improve myself so that future employers can see how hard I've been working!
+
+Day 24: April 30, 2021
+
+Today's Progress: Completed a few JavaScript coding challenges.
+
+Thoughts: I took it easy today, as I felt I really needed a break from everything. Spent some time outdoors, walked my dog, saw some family - still snuck in a few coding challenges though :)
