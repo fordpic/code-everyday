@@ -159,3 +159,8 @@ Today's Progress: Continued with building out the portfolio site, adding animati
 
 Thoughts: I spent today looking into animations in React & how I could leverage them in my personal website. I've got a solid, working site up now, but I really want it to wow people! Sneak peek coming soon...
 
+Day 26: May 2, 2021
+
+Today's Progress: Spent the day taking practice exams for the AWS CP exam.
+
+Thoughts: Today I spent my entire time studying for AWS & trying to push through, as I need to go ahead & take this thing ASAP so I can move on to other things. It's going to be a real hard exam, but I'll be ready - stay tuned for good news!
