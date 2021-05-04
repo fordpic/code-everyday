@@ -140,3 +140,9 @@ Day 22: April 28, 2021
 Today's Progress: Continued studying for Cloud Practitioner exam, began building portfolio website.
 
 Thoughts: I believe I should be able to take the AWS exam at the top of next week, so hopefully this will be the final push here of studying for it so I can move on to other things. I went ahead and scaled out my portfolio website (sans CSS) & put all of my projects on there for now, will need some serious design overhauls this weekend as well. I have my work cut out for me!
+
+Day 23: April 29, 2021
+
+Today's Progress: Continued studying for the CP exam & building out portfolio site.
+
+Thoughts: Not much to say here for today, just continuing to push through the AWS training & working more on my portfolio site. Trying to improve myself so that future employers can see how hard I've been working!
