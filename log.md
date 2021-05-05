@@ -164,3 +164,9 @@ Day 26: May 2, 2021
 Today's Progress: Spent the day taking practice exams for the AWS CP exam.
 
 Thoughts: Today I spent my entire time studying for AWS & trying to push through, as I need to go ahead & take this thing ASAP so I can move on to other things. It's going to be a real hard exam, but I'll be ready - stay tuned for good news!
+
+Day 27: May 3, 2021
+
+Today's Progress: Spent more time taking AWS CP practice exams & still working on animations for portfolio site.
+
+Thoughts: Ahh the start of a new week! I feel like I have SO much to do & need to get it all done right now, but I also know that's just my excitement talking & I need to be focused & relaxed, tackling one issue at a time. I will also be pretty busy this week outside of coding as well, so it will be another test of my time management skills that hopefully I pass with flying colors! 
