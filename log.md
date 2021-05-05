@@ -175,4 +175,12 @@ Day 28: May 4, 2021
 
 Today's Progress: Final studying push for AWS CP exam, taking the test Thursday.
 
-Thoughts: The progress line above says it all, I spent the ENTIRE day today (we're talking ~15 hours here) studying every little last detail for this AWS exam. I know it's likely overkill, but I want to go in & kick the doors in first attempt so I'd rather be overprepared than under :) I went ahead & scheduled the exam for Thursday so that I couldn't procrastinate on it too.
+Thoughts: May the 4th be with you! The progress line above says it all, I spent the ENTIRE day today (we're talking ~15 hours here) studying every little last detail for this AWS exam. I know it's likely overkill, but I want to go in & kick the doors in first attempt so I'd rather be overprepared than under :) I went ahead & scheduled the exam for Thursday so that I couldn't procrastinate on it too.
+
+Day 29: May 5, 2021
+
+Today's Progress: Last day of studying before AWS CP exam, putting final touches on portfolio site, & beginning to reach out & search for jobs.
+
+Thoughts: Now that the AWS Cloud Practitioner exam is right around the corner & my portfolio site is almost complete, it was time to start reaching out & making connections with potential employers. I'm nervous about getting my first developer gig but I'm confident in my abilities, & also in my ability to pick up anything quickly & efficiently. Now I just have to convey that confidence to potential future employers - I'm ready! 
+
+P.S. Happy Cinco de Mayo!!
