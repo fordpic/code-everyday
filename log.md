@@ -184,3 +184,5 @@ Today's Progress: Last day of studying before AWS CP exam, putting final touches
 Thoughts: Now that the AWS Cloud Practitioner exam is right around the corner & my portfolio site is almost complete, it was time to start reaching out & making connections with potential employers. I'm nervous about getting my first developer gig but I'm confident in my abilities, & also in my ability to pick up anything quickly & efficiently. Now I just have to convey that confidence to potential future employers - I'm ready! 
 
 P.S. Happy Cinco de Mayo!!
+
+Day 30: May 6, 2021
