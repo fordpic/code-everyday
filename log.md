@@ -186,3 +186,7 @@ Thoughts: Now that the AWS Cloud Practitioner exam is right around the corner & 
 P.S. Happy Cinco de Mayo!!
 
 Day 30: May 6, 2021
+
+Today's Progress: Passed AWS CP Exam!
+
+Thoughts: I've finally done it! Hard work does indeed pay off - I am officially an AWS certified Cloud Practitioner! I really wanted to get this certification before I started applying to a bunch of jobs because I wanted to show employers that I can do anything I set my mind to & focus on. Four months ago I knew almost nothing - fast forward to today & I've never been feeling more confident about my abilities to contribute meaningfully to a team willing to take a chance on me. Cheers!
