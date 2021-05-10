@@ -202,3 +202,9 @@ Day 32: May 8, 2021
 Today's Progress: Took today off from coding to work an external gig & give my brain a much-deserved 24 hour rest from coding & the cloud.
 
 Thoughts: The progress above says it all, took a much needed break today from coding (unfortunately not from working, but the grind never ends!) & focused on other important aspects of my life. Will be ready to jump back in tomorrow morning!
+
+Day 33: May 9, 2021
+
+Today's Progress: A few more coding challenges (JavaScript & Python) along with some Solidity tutorials.
+
+Thoughts: Today I began really diving into Solidity (I've been chipping away at it for a while, but now it is my full focus) using the CyrptoZombies game/tutorial/project as a way to refresh my memory on all of the basics. Moving forward, my priorities will be getting my portfolio site completely built out & finished how I want it (I'm an OCD perfectionist so could be a little) & learning Solidity & Web3 - I truly believe blockchain innovation & DeFi are my callings & I absolutely cannot wait to not only dive in & get better myself, but also get to a point where I can truly help out other like-minded individuals working towards the same goal (ideally on the same team at a company because we're working together to build something impactful lol). I WILL get better each & every day as I move towards my dreams.
