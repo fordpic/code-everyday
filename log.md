@@ -190,3 +190,9 @@ Day 30: May 6, 2021
 Today's Progress: Passed AWS CP Exam!
 
 Thoughts: I've finally done it! Hard work does indeed pay off - I am officially an AWS certified Cloud Practitioner! I really wanted to get this certification before I started applying to a bunch of jobs because I wanted to show employers that I can do anything I set my mind to & focus on. Four months ago I knew almost nothing - fast forward to today & I've never been feeling more confident about my abilities to contribute meaningfully to a team willing to take a chance on me. Cheers!
+
+Day 31: May 7, 2021
+
+Today's Progress: A few coding challenges in both JavaScript & Python.
+
+Thoughts: I have a very busy weekend coming up (shooting a few pieces for an upcoming music awards show!) so I'll likely have to at least take one of the days off, but for today I went ahead & spent a few hours working through JS & Python coding challenges on Codewars. Still basking in my post-certification glow from yesterday :)
