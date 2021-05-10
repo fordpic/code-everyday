@@ -196,3 +196,9 @@ Day 31: May 7, 2021
 Today's Progress: A few coding challenges in both JavaScript & Python.
 
 Thoughts: I have a very busy weekend coming up (shooting a few pieces for an upcoming music awards show!) so I'll likely have to at least take one of the days off, but for today I went ahead & spent a few hours working through JS & Python coding challenges on Codewars. Still basking in my post-certification glow from yesterday :)
+
+Day 32: May 8, 2021
+
+Today's Progress: Took today off from coding to work an external gig & give my brain a much-deserved 24 hour rest from coding & the cloud.
+
+Thoughts: The progress above says it all, took a much needed break today from coding (unfortunately not from working, but the grind never ends!) & focused on other important aspects of my life. Will be ready to jump back in tomorrow morning!
