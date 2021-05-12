@@ -214,3 +214,9 @@ Day 34: May 10, 2021
 Today's Progress: Alllll Solidity allll day baby.
 
 Thoughts: The goal is to now absolutely crush Solidity & become a talented developer in the field, since my true passion is blockchain technology. I'm so excited to finally be able to move on to learning something new, I feel like I've been in (virtual private) cloud land for forever! Can't wait to start building some cool things to show people & change the world.. one step at a time!
+
+Day 25: May 11, 2021
+
+Today's Progress: Working towards finishing up the portfolio site, adding animations.
+
+Thoughts: Today was spent working on my portfolio site & adding animations using Framer Motion. Framer is amazing, it really makes it easy & intuitive to add custom animations to your React components - from something as simple as a sweep transition to some really complicated stuff. Will be continuing to finish my site tomorrow as well as get it deployed!
