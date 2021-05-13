@@ -220,3 +220,9 @@ Day 25: May 11, 2021
 Today's Progress: Working towards finishing up the portfolio site, adding animations.
 
 Thoughts: Today was spent working on my portfolio site & adding animations using Framer Motion. Framer is amazing, it really makes it easy & intuitive to add custom animations to your React components - from something as simple as a sweep transition to some really complicated stuff. Will be continuing to finish my site tomorrow as well as get it deployed!
+
+Day 26: May 12, 2021
+
+Today's Progress: Finished portfolio site, deployed to Heroku.
+
+Thoughts: My site is officially live! There are definitely some more tweaks I'd like to make & sections I'd like to add, so it is 100% a work in progress.. however, I really wanted something to showcase my projects for potential employers to check out. I will also be transitioning the site over to AWS Amplify here as well in the coming weeks, but for now Heroku will do :) Check it out & let me know what you all think!
