@@ -226,3 +226,9 @@ Day 26: May 12, 2021
 Today's Progress: Finished portfolio site, deployed to Heroku.
 
 Thoughts: My site is officially live! There are definitely some more tweaks I'd like to make & sections I'd like to add, so it is 100% a work in progress.. however, I really wanted something to showcase my projects for potential employers to check out. I will also be transitioning the site over to AWS Amplify here as well in the coming weeks, but for now Heroku will do :) Check it out & let me know what you all think!
+
+Day 27: May 13, 2021
+
+Today's Progress: Solidity tutorials amidst job applications.
+
+Thoughts: The vast majority of today is being spent towards the job hunt & filling out applications (if you're reading this, hire me!) however I will still be making time for some code & the blockchain. I'm getting pretty deep into Solidity at this point, & the possibilities are just endless when it comes to the use cases for smart contracts - I'm having an absolute blast learning about them! I really do believe that they are the future.
