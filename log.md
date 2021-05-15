@@ -238,3 +238,9 @@ Day 28: May 14, 2021
 Today's Progress: More Solidity tutorials, nothing but.
 
 Thoughts: Only had a few hours to work today due to a side job, however I did manage to focus & spend all of it on getting more in depth with Solidity, & truly coming to grips with how powerful smart contracts can be. This weekend, I plan to learn more about Web3.js & ethers.js - once I can incorporate web3 functionality into my JavaScript frontends, I will truly feel like I belong in this crazy & fantastic new world of the decentralized web.
+
+Day 29: May 15, 2021
+
+Today's Progress: Python coding challenges this morning, more Solidity work.
+
+Thoughts: Didn't quite get to the web3 work I wanted to today, but that's alright - I'll have all day tomorrow to tinker around on it. It was a gorgeous day outside as well, felt the urge to get out in my backyard & read more today than I normally would. Overall, a productive day in my book. Web3 work tomorrow!
