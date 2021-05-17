@@ -244,3 +244,9 @@ Day 29: May 15, 2021
 Today's Progress: Python coding challenges this morning, more Solidity work.
 
 Thoughts: Didn't quite get to the web3 work I wanted to today, but that's alright - I'll have all day tomorrow to tinker around on it. It was a gorgeous day outside as well, felt the urge to get out in my backyard & read more today than I normally would. Overall, a productive day in my book. Web3 work tomorrow!
+
+Day 30: May 16, 2021
+
+Today's Progress: Today, as promised, I spent all of my time working through web3.js tutorials. In the end, I believe I'm going to want to go with ethers.js since it is more minimal & likely more suited to what I am trying to accomplish. I do know that knowing both will help me out though, so I'm going to give it my best shot & learn both frameworks as well as I can.
+
+Thoughts: 
