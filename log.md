@@ -250,3 +250,9 @@ Day 30: May 16, 2021
 Today's Progress: Nothing but web3 work today.
 
 Thoughts: Today, as promised, I spent all of my time working through web3.js tutorials. In the end, I believe I'm going to want to go with ethers.js since it is more minimal & likely more suited to what I am trying to accomplish. I do know that knowing both will help me out though, so I'm going to give it my best shot & learn both frameworks as well as I can. I've already been working with web3.js for a time, so after a few more days of work here I'll be jumping over to Ethers!
+
+Day 31: May 17, 2021
+
+Today's Progress: A few JavaScript coding challenges & more web3.
+
+Thoughts: Today I started off as I normally do, a few coding challenges to get my brain warmed up. I had my first tech interview today as well, and it's one that I'm really excited about - working directly on the blockchain with some really talented developers. They gave me their take home coding exercise to be due on Thursday, which is where I will be focusing all of my efforts until then. The challenge itself isn't hard, but I really want to blow them away so that they will take a chance on me.. I'm going for it!
