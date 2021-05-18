@@ -247,6 +247,6 @@ Thoughts: Didn't quite get to the web3 work I wanted to today, but that's alrigh
 
 Day 30: May 16, 2021
 
-Today's Progress: Today, as promised, I spent all of my time working through web3.js tutorials. In the end, I believe I'm going to want to go with ethers.js since it is more minimal & likely more suited to what I am trying to accomplish. I do know that knowing both will help me out though, so I'm going to give it my best shot & learn both frameworks as well as I can.
+Today's Progress: Nothing but web3 work today.
 
-Thoughts: 
+Thoughts: Today, as promised, I spent all of my time working through web3.js tutorials. In the end, I believe I'm going to want to go with ethers.js since it is more minimal & likely more suited to what I am trying to accomplish. I do know that knowing both will help me out though, so I'm going to give it my best shot & learn both frameworks as well as I can. I've already been working with web3.js for a time, so after a few more days of work here I'll be jumping over to Ethers!
