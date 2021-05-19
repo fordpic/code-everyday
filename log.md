@@ -256,3 +256,9 @@ Day 31: May 17, 2021
 Today's Progress: A few JavaScript coding challenges & more web3.
 
 Thoughts: Today I started off as I normally do, a few coding challenges to get my brain warmed up. I had my first tech interview today as well, and it's one that I'm really excited about - working directly on the blockchain with some really talented developers. They gave me their take home coding exercise to be due on Thursday, which is where I will be focusing all of my efforts until then. The challenge itself isn't hard, but I really want to blow them away so that they will take a chance on me.. I'm going for it!
+
+Day 32: May 18, 2021
+
+Today's Progress: More Web3 work, learning the Truffle Suite.
+
+Thoughts: Today I spent more time applying myself towards incorporating web3 functionality in my previous projects. In particular, the "Crypto Whale Watchers" one for obvious reasons :)  I also spent a few hours learning the Truffle Suite & how to use all of its features, such as Ganache. I've been using Hardhat for the same utility as Truffle, but I wanted to get a full overview of the technologies available to smart contract programmers. Will continue tomorrow!
