@@ -262,3 +262,9 @@ Day 32: May 18, 2021
 Today's Progress: More Web3 work, learning the Truffle Suite.
 
 Thoughts: Today I spent more time applying myself towards incorporating web3 functionality in my previous projects. In particular, the "Crypto Whale Watchers" one for obvious reasons :)  I also spent a few hours learning the Truffle Suite & how to use all of its features, such as Ganache. I've been using Hardhat for the same utility as Truffle, but I wanted to get a full overview of the technologies available to smart contract programmers. Will continue tomorrow!
+
+Day 33: May 19, 2021
+
+Today's Progress: 
+
+Thoughts:
