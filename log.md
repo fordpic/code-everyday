@@ -286,3 +286,9 @@ Day 36: May 22, 2021
 Today's Progress: Still dealing with the family medical issues, but was able to sneak some JavaScript & Python coding challenges in. 
 
 Thoughts: I was able to get a bit of JavaScript & Python training in on Codewars, though I wish I had had more time to practice. Heading back home tomorrow so everything will be back to normal ASAP!
+
+Day 37: May 23, 2021
+
+Today's Progress: Solidity / Web3.js / Ethers.js tutorials for the win.
+
+Thoughts: The progress says it all - this week will be completely devoted to web3 & blockchain, with myself completing a new tutorial every day through the end of the week. I'm really lookijng forward to the challenge, it will be tough but this is my future so I couldn't be more stoked on it all. Cheers!
