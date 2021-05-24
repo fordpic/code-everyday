@@ -280,3 +280,9 @@ Day 35: May 21, 2021
 Today's Progress: Still dealing with family medical emergency, another day off unfortunately.
 
 Thoughts: N/A
+
+Day 36: May 22, 2021
+
+Today's Progress: Still dealing with the family medical issues, but was able to sneak some JavaScript & Python coding challenges in. 
+
+Thoughts: I was able to get a bit of JavaScript & Python training in on Codewars, though I wish I had had more time to practice. Heading back home tomorrow so everything will be back to normal ASAP!
