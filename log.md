@@ -274,3 +274,9 @@ Day 34: May 20, 2021
 Today's Progress: Had a family medical emergency, took the day off.
 
 Thoughts: :(
+
+Day 35: May 21, 2021
+
+Today's Progress: Still dealing with family medical emergency, another day off unfortunately.
+
+Thoughts: N/A
