@@ -268,3 +268,9 @@ Day 33: May 19, 2021
 Today's Progress: Built a fully functioning staking protocol complete with my own minted fake tokens using a tutorial.
 
 Thoughts: Really cool day today, I built my first dapp that actually looks like something someone would use. I was following a tutorial, but it still felt so good to get something up that was working & functional. Tomorrow I will continue building out dummy dapp projects to practice!
+
+Day 34: May 20, 2021
+
+Today's Progress: Had a family medical emergency, took the day off.
+
+Thoughts: :(
